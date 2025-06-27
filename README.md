@@ -1,12 +1,24 @@
 # Repository for Bioinformatics For All
 
-## Plots
+## Background
 
-## Statistical tests
+## Fundamentals of Bioinformatics
 
-## Exploratory Data Analysis
+### Biology for Bioinformatics
+ 
+### Statistics for Bioinformatics
 
-## Tools
+### Computer science for Bioinformatics
 
-## Common utility commands
+## Introduction to Computational Biology
+
+### Plots
+
+### Statistical tests
+
+### Exploratory Data Analysis
+
+## Common Bioinformatics software
+
+## Command line
 
