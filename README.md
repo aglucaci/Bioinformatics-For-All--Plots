@@ -1,5 +1,7 @@
 # Repository for Bioinformatics For All
 
+last update: 07.01.2025
+
 ## Background
 
 ## Fundamentals of Bioinformatics
